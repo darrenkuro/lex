@@ -3,7 +3,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"/>
     <img src="https://img.shields.io/badge/status-maintained-brightgreen" alt="Status">
-    <img src="https://img.shields.io/badge/date-Dec%209%26%20-ff6984?style=flat-square&logo=Cachet&logoColor=white" alt="Date"/>
+    <img src="https://img.shields.io/badge/date-Dec%209%2C%202025-ff6984?style=flat-square&logo=Cachet&logoColor=white" alt="Date"/>
 </p>
 
 > Generic lexer!
